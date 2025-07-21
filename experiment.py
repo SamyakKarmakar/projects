@@ -1,1 +1,1 @@
-print("Samyak") 
+print("ABC") 
